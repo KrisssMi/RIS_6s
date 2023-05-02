@@ -1,0 +1,6 @@
+﻿  ServerU.cpp
+E:\Telegram\L2\ServerU\ServerU\ServerU.cpp(121,23): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\Telegram\L2\ServerU\ServerU\ServerU.cpp(134,23): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\Telegram\L2\ServerU\ServerU\ServerU.cpp(185,30): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\Telegram\L2\ServerU\ServerU\ServerU.cpp(218,27): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  ServerU.vcxproj -> E:\Telegram\L2\ServerU\Debug\ServerU.exe

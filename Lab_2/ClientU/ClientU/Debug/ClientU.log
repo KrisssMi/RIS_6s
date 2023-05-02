@@ -1,0 +1,4 @@
+﻿  ClientU.cpp
+E:\Telegram\L2\ClientU\ClientU\ClientU.cpp(101,25): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\Telegram\L2\ClientU\ClientU\ClientU.cpp(121,7): warning C4101: count: неиспользованная локальная переменная
+  ClientU.vcxproj -> E:\Telegram\L2\ClientU\Debug\ClientU.exe

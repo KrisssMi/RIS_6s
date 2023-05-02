@@ -1,0 +1,4 @@
+﻿  ServerU.cpp
+E:\BSTU\3_course\РИС\Labs\Lab_1\ServerU\ServerU\ServerU.cpp(128,26): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\BSTU\3_course\РИС\Labs\Lab_1\ServerU\ServerU\ServerU.cpp(155,12): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  ServerU.vcxproj -> E:\BSTU\3_course\РИС\Labs\Lab_1\ServerU\Debug\ServerU.exe
